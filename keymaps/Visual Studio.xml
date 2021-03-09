@@ -1,0 +1,23 @@
+<keymap version="1" name="Visual Studio 副本" parent="Visual Studio">
+  <action id="CreateJavaeeWebPageAction">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt p" />
+  </action>
+  <action id="CreateServletAction">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt s" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt j" />
+  </action>
+  <action id="NewHtmlFile">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt h" />
+  </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt t" />
+  </action>
+  <action id="NewModuleInGroup">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt m" />
+  </action>
+  <action id="NewStylesheetFile">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="alt c" />
+  </action>
+</keymap>
