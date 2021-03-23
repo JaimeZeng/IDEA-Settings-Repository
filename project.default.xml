@@ -1,9 +1,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="AutoImportSettings">
-        <option name="autoReloadType" value="SELECTIVE" />
-      </component>
       <component name="CodeInsightWorkspaceSettings">
         <option name="optimizeImportsOnTheFly" value="true" />
       </component>
@@ -16,42 +13,23 @@
             <expanded-state>
               <State />
               <State>
-                <id>Android</id>
-              </State>
-              <State>
-                <id>Code style issuesJava</id>
-              </State>
-              <State>
-                <id>Internationalization</id>
-              </State>
-              <State>
-                <id>InternationalizationJava</id>
-              </State>
-              <State>
-                <id>InternationalizationLintAndroid</id>
-              </State>
-              <State>
                 <id>Java</id>
-              </State>
-              <State>
-                <id>LintAndroid</id>
               </State>
             </expanded-state>
             <selected-state>
               <State>
-                <id>Android</id>
+                <id>Ali-Check</id>
               </State>
             </selected-state>
           </profile-state>
         </entry>
       </component>
       <component name="PropertiesComponent">
-        <property name="node.js.path.for.package.stylelint" value="project" />
-        <property name="node.js.selected.package.stylelint" value="" />
-        <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+        <property name="settings.editor.selected.configurable" value="aA" />
       </component>
-      <component name="SvnConfiguration">
-        <configuration>$USER_HOME$/.subversion</configuration>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
       </component>
       <component name="masterDetails">
         <states>
