@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <JavaCodeStyleSettings>
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5" />
+  </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -6,8 +10,5 @@
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
-  </codeStyleSettings>
-  <codeStyleSettings language="Markdown">
-    <option name="RIGHT_MARGIN" value="-1" />
   </codeStyleSettings>
 </code_scheme>

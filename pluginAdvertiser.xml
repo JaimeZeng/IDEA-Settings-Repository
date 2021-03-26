@@ -164,6 +164,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cmr">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.codemr.analyzer" />
+              <option name="myPluginName" value="CodeMR" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.coffee">
           <value>
             <plugin>
@@ -999,6 +1007,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mdl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.codemr.analyzer" />
+              <option name="myPluginName" value="CodeMR" />
             </plugin>
           </value>
         </entry>
@@ -2185,6 +2201,16 @@
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP 请求" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" />
+                    </value>
+                  </entry>
+                  <entry key="HybrisRemoteTests">
+                    <value>
+                      <FeaturePluginData displayName="Hybris Remote Tests" pluginName="ccom.intellij.idea.plugin.hybris.impex" pluginId="ccom.intellij.idea.plugin.hybris.impex" />
+                    </value>
+                  </entry>
+                  <entry key="HybrisTests">
+                    <value>
+                      <FeaturePluginData displayName="Hybris Tests" pluginName="ccom.intellij.idea.plugin.hybris.impex" pluginId="ccom.intellij.idea.plugin.hybris.impex" />
                     </value>
                   </entry>
                   <entry key="JBossConfiguration">
